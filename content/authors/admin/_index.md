@@ -25,7 +25,7 @@ education:
   courses:
     - course: "B.E Information Science & Engineering "
       institution: CMR Institute of Technology
-      year: 2023
+      year: 2021
 email: ""
 superuser: true
 highlight_name: true
