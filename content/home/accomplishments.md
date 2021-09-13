@@ -39,6 +39,22 @@ item:
   organization_url: https://www.coursera.org
   title: Tools for Data Science
   url: ""
+- certificate_url: https://coursera.org/share/93ac9b9df60d8e0bea89622c349742ec
+  date_end: ""
+  date_start: "2019-05-25"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: What is Data Science?
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/2CJFSPWUD72M
+  date_end: ""
+  date_start: "2019-03-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Programming for Everybody (Getting Started with Python)
+  url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
