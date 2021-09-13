@@ -55,6 +55,14 @@ item:
   organization_url: https://www.coursera.org
   title: Programming for Everybody (Getting Started with Python)
   url: ""
+- certificate_url: https://google.qwiklabs.com/public_profiles/4cac00c9-7fe4-4db7-a1c8-255c36b9fe8f
+  date_end: ""
+  date_start: "2019-08-01"
+  description: ""
+  organization: Qwiklabs
+  organization_url: https://www.coursera.org
+  title: Google Cloud Essentials | Cloud Study Jam-Kubernetes Engine
+  url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
