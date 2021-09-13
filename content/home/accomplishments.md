@@ -25,19 +25,19 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/2CJFSPWUD72M
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2019-08-25"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Python data structure
   url: ""
-- certificate_url: https://www.coursera.org/account/accomplishments/verify/2CJFSPWUD72M
+- certificate_url: https://coursera.org/share/26d8d0b4b553fae93c979afe6d18bef5
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2019-07-25"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Python data structure
+  title: Tools for Data Science
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
