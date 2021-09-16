@@ -70,13 +70,13 @@ item:
   organization: Udemy
   organization_url: https://www.udemy.com/
   title: The Web developer bootcamp
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
+- certificate_url: https://www.hackerrank.com/certificates/22e5e3ccd72f
+  date_end: 
   date_start: "2020-07-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: HackeRank
+  organization_url: 
+  title: Python (Basic) Certificate
   url: ""
 
 design:
