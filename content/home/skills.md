@@ -40,6 +40,10 @@ feature:
   icon: linux
   icon_pack: fab
   name: Linux
+- description: 
+  icon: elastic
+  icon_pack: custom
+  name: Elastic Search
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
