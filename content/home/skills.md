@@ -92,6 +92,10 @@ feature:
   icon: mysql
   icon_pack: custom
   name: mysql
+- description: 
+  icon: mongo 
+  icon_pack: custom
+  name: Mongo DB
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
