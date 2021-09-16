@@ -25,6 +25,30 @@ feature:
   icon_pack: custom
   name: python
 - description: 
+  icon: javascript
+  icon_pack: custom
+  name: Javascript
+- description: 
+  icon: html
+  icon_pack: custom
+  name: HTML
+- description: 
+  icon: css
+  icon_pack: custom
+  name: Css3
+- description: 
+  icon: sass
+  icon_pack: custom
+  name: sass
+- description: 
+  icon: react
+  icon_pack: custom
+  name: React
+- description: 
+  icon: node
+  icon_pack: custom
+  name: Node JS
+- description: 
   icon: suricata
   icon_pack: custom
   name: Suricata
