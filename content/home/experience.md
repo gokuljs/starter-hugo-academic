@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Full Stack Developer (Intern)
-    company: Runshay Technologies
+    company: Runshaw Technologies
     company_url: ''
     company_logo: 
     location: Bangalore
