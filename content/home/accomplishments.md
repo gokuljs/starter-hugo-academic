@@ -65,12 +65,12 @@ item:
   url: ""
 - certificate_url: https://www.udemy.com/certificate/UC-d294f9f0-7f80-4012-ba26-e53cdd005a13/
   date_end: ""
-  date_start: "2021-01-01"
-  description: The Web developer bootcamp
+  date_start: "2020-01-01"
+  description: ""
   organization: Udemy
   organization_url: https://www.udemy.com/
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  title: https://www.udemy.com/
+  url: 
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
