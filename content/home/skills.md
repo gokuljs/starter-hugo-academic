@@ -95,7 +95,7 @@ feature:
 - description: 
   icon: mongo 
   icon_pack: custom
-  name: Mongo DB
+  name: MongoDB
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
