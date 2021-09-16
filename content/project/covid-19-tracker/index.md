@@ -11,6 +11,8 @@ summary: >-
   * **Frameworks:** Sass, Node.js, Express.js
 draft: false
 featured: false
+tags:
+  - web
 links:
   - url: https://github.com/gokuljs/covid-19
     icon_pack: null
