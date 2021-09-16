@@ -36,7 +36,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '5'
+  columns: '3'
 
   # Toggle between the various page layout types.
   #   1 = List
