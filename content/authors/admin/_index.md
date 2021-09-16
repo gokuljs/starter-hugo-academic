@@ -7,6 +7,7 @@ interests:
   - Full stack development
   - Cloud computing
   - Network security
+  - DevOps
 social:
   - icon: envelope
     icon_pack: fas
