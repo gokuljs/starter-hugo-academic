@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: java
+  icon: javap
   icon_pack: custom
   name: Java
 - description: 
@@ -25,9 +25,9 @@ feature:
   icon_pack: custom
   name: python
 - description: 
-  icon: js
+  icon: docker
   icon_pack: custom
-  name: Javascript
+  name: docker
 - description: 
   icon: aws
   icon_pack: custom
