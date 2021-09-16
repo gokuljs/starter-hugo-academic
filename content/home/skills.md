@@ -33,10 +33,6 @@ feature:
   icon_pack: custom
   name: Git
 - description: 
-  icon: Zeek
-  icon_pack: custom
-  name: zeek
-- description: 
   icon: aws
   icon_pack: custom
   name: AWS
