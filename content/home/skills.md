@@ -25,6 +25,18 @@ feature:
   icon_pack: custom
   name: python
 - description: 
+  icon: suricata
+  icon_pack: custom
+  name: Suricata
+- description: 
+  icon: git
+  icon_pack: custom
+  name: Git
+- description: 
+  icon: Zeek
+  icon_pack: custom
+  name: zeek
+- description: 
   icon: aws
   icon_pack: custom
   name: AWS
