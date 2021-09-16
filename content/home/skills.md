@@ -18,27 +18,27 @@ subtitle:
 feature:
 - description: 
   icon: java
-  icon_pack: fab
+  icon_pack: custom
   name: Java
 - description: 
   icon: python
-  icon_pack: fab
+  icon_pack: custom
   name: python
 - description: 
   icon: js
-  icon_pack: fab
+  icon_pack: custom
   name: Javascript
 - description: 
   icon: aws
-  icon_pack: fab
+  icon_pack: custom
   name: AWS
 - description: 
   icon: ubuntu
-  icon_pack: fab
+  icon_pack: custom
   name: Ubuntu
 - description: 
   icon: linux
-  icon_pack: fab
+  icon_pack: custom
   name: Linux
 - description: 
   icon: elastic
