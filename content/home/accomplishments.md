@@ -63,12 +63,12 @@ item:
   organization_url: https://www.coursera.org
   title: Google Cloud Essentials | Cloud Study Jam-Kubernetes Engine
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.udemy.com/certificate/UC-d294f9f0-7f80-4012-ba26-e53cdd005a13/
   date_end: ""
   date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
+  description: The Web developer bootcamp
+  organization: Udemy
+  organization_url: https://www.udemy.com/
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
