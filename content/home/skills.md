@@ -47,7 +47,19 @@ feature:
 - description: 
   icon: docker
   icon_pack: custom
-  name: 
+  name: Docker
+- description: 
+  icon: github
+  icon_pack: custom
+  name: Github
+- description: 
+  icon: gitlab
+  icon_pack: custom
+  name: gitlab
+- description: 
+  icon: mysql
+  icon_pack: custom
+  name: mysql
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
