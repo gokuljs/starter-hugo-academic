@@ -51,7 +51,7 @@ item:
   date_end: ""
   date_start: "2019-03-01"
   description: ""
-  organization: 
+  organization: Coursera
   organization_url: https://www.coursera.org
   title: Programming for Everybody (Getting Started with Python)
   url: ""
