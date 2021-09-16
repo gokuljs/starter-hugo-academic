@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: java
+  icon: p
   icon_pack: fab
-  name: java
+  name: Java
 - description: 100%
   icon: chart-line
   icon_pack: fas
