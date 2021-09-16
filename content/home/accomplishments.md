@@ -59,7 +59,7 @@ item:
   date_end: ""
   date_start: "2019-08-01"
   description: ""
-  organization: Qwiklabs
+  organization: qwiklabs
   organization_url: https://www.coursera.org
   title: Google Cloud Essentials | Cloud Study Jam-Kubernetes Engine
   url: ""
@@ -74,7 +74,7 @@ item:
   date_end: 
   date_start: "2020-01-01"
   description: ""
-  organization: HackeRank
+  organization: hackerrank
   organization_url: 
   title: Python (Basic) Certificate
   url: ""

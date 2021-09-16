@@ -45,14 +45,7 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
    
-  - title: Udemy
-    company: Udemy
-    company_url: ''
-    company_logo: udemy
-    location: California
-    date_start: '2020-01-01'
-    date_end: '2020-12-31'
-    description: learnt full stack development.
+
 
 design:
   columns: '2'
