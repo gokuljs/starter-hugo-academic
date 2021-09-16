@@ -1,5 +1,5 @@
 ---
-slides: example
+# slides: example
 url_pdf: ""
 summary: >-
   
@@ -24,7 +24,7 @@ tags:
   - Security
 links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption:
   focal_point: Smart
   filename: featured.png
 url_code: ""
