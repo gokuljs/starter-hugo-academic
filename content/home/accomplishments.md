@@ -69,8 +69,7 @@ item:
   description: ""
   organization: Udemy
   organization_url: https://www.udemy.com/
-  title: https://www.udemy.com/
-  url: 
+  title: The Web developer bootcamp
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
