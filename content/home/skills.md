@@ -25,10 +25,6 @@ feature:
   icon_pack: custom
   name: python
 - description: 
-  icon: docker
-  icon_pack: custom
-  name: docker
-- description: 
   icon: aws
   icon_pack: custom
   name: AWS
@@ -36,10 +32,6 @@ feature:
   icon: ubuntu
   icon_pack: custom
   name: Ubuntu
-- description: 
-  icon: linux
-  icon_pack: custom
-  name: Linux
 - description: 
   icon: elastic
   icon_pack: custom
