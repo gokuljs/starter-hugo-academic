@@ -44,6 +44,14 @@ feature:
   icon: elastic
   icon_pack: custom
   name: Elastic Search
+- description: 
+  icon: kibana
+  icon_pack: custom
+  name: kibana
+- description: 
+  icon: logstash
+  icon_pack: custom
+  name: logstash
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
