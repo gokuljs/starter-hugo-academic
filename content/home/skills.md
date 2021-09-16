@@ -44,6 +44,10 @@ feature:
   icon: logstash
   icon_pack: custom
   name: logstash
+- description: 
+  icon: docker
+  icon_pack: custom
+  name: 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
