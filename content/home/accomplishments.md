@@ -51,7 +51,7 @@ item:
   date_end: ""
   date_start: "2019-03-01"
   description: ""
-  organization: Coursera
+  organization: 
   organization_url: https://www.coursera.org
   title: Programming for Everybody (Getting Started with Python)
   url: ""
@@ -65,14 +65,14 @@ item:
   url: ""
 - certificate_url: https://www.udemy.com/certificate/UC-d294f9f0-7f80-4012-ba26-e53cdd005a13/
   date_end: ""
-  date_start: "2020-01-01"
+  date_start: "2020-07-01"
   description: ""
   organization: Udemy
   organization_url: https://www.udemy.com/
   title: The Web developer bootcamp
 - certificate_url: https://www.hackerrank.com/certificates/22e5e3ccd72f
   date_end: 
-  date_start: "2020-07-01"
+  date_start: "2020-01-01"
   description: ""
   organization: HackeRank
   organization_url: 
