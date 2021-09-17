@@ -31,6 +31,8 @@ content:
     tag: Security
   - name: web
     tag: web
+  - name: Python
+    tag: python
   - name: Other
     tag: Demo
 
