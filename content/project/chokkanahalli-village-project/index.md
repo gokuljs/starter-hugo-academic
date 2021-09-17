@@ -21,7 +21,7 @@ links:
   - url: https://drive.google.com/file/d/1EhE6H7_nw7dhwXCwQi3UOIOAzsz-SaA-/view
     name: video link 1
   - url: https://drive.google.com/file/d/143Su6usAYcm4qi7YzOWOkNNCNaKM9-Vh/view
-    name: Video link 1
+    name: Video link 2
 image:
   filename: featured.png
   focal_point: Smart
