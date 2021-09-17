@@ -53,11 +53,7 @@ title: Intelligent Filter for Traffic Monitoring and Analysis For Cyber Threats
 tags:
   - Security
   - other
-links: 
-  - url: https://docs.google.com/presentation/d/1n8OcMsegMK0wrCqM6DqOOri1Ud5AHyEp/edit#slide=id.gdb70e5b088_0_91
-    icon_pack: null
-    icon: ""
-    name: Project Link
+links: []
 image:
   caption:
   focal_point: Smart
