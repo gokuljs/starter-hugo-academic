@@ -20,7 +20,7 @@ summary: >-
 draft: false
 featured: false
 tags:
-  - Python
+  - python
 links:
   - url: https://github.com/gokuljs/library-management-system-using-pyqt5
     name: Project Link
