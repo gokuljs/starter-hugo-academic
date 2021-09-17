@@ -17,6 +17,8 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+  - python
 links:
   - url: https://github.com/gokuljs/machine-monitoring-tool-using-python-
     name: Project link
