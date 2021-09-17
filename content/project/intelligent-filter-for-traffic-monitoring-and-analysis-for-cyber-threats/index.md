@@ -22,8 +22,8 @@ summary: >-
 draft: false
 featured: false
 links:
-  - url: https://docs.google.com/presentation/d/1n8OcMsegMK0wrCqM6DqOOri1Ud5AHyEp/edit?usp=sharing&ouid=106882386787539954143&rtpof=true&sd=true
-    name: ppt
+  - url: https://drive.google.com/file/d/1jeGZSMuez4pP42L9dwrmhgWTVM_53e6_/view?resourcekey
+    name: Video link
 image:
   filename: featured.png
   focal_point: Smart
