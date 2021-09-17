@@ -23,7 +23,7 @@ font_size: L
 email: jsgokul123@gmail.com
 phone: +91 8722619539
 address:
-  street: Hoysala nagar RM nagar Extnt Tc palya main road
+  # street: Hoysala nagar RM nagar Extnt Tc palya main road
   city: Bangalore
   region: Karnataka
   postcode: '560016'
