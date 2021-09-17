@@ -19,11 +19,13 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+  - Python
 links:
   - url: https://github.com/gokuljs/library-management-system-using-pyqt5
     name: Project Link
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
