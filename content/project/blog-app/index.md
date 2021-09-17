@@ -1,6 +1,6 @@
 ---
 title: Blog App
-date: 2021-09-17T06:28:44.067Z
+date: 2021-09-17T06:34:08.311Z
 summary: >-
   <!--StartFragment-->
 
@@ -21,8 +21,9 @@ draft: false
 featured: false
 links:
   - url: https://github.com/gokuljs/blog-app
-    icon_pack: fab
-    icon: arrow-right
+    icon_pack: null
+    icon: ""
+    name: Project link
 image:
   filename: featured.png
   focal_point: Smart
