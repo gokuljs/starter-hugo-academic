@@ -3,7 +3,11 @@ title: How to push large files on GitHub
 subtitle: ""
 date: 2020-04-01T14:56:18.211Z
 summary: >-
-  
+  By default in GitHub maximum file size upload limit is 50mb. But when you are
+  working on a project there are chances where you will encounter a file size
+  that is greater than 50mb or it might be video files, data sets, etc. How to
+  commit these files into GitHub?
+
 
   # **Let's get started**
 
@@ -34,6 +38,6 @@ image:
 ---
 <!--StartFragment-->
 
-By default in GitHub maximum file size upload limit is 50mb. But when you are working on a project there are chances where you will encounter a file size that is greater than 50mb or it might be video files, data sets, etc. How to commit these files into GitHub?
+
 
 <!--EndFragment-->
