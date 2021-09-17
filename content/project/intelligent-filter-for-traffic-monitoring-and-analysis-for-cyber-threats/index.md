@@ -1,6 +1,6 @@
 ---
 title: Intelligent Filter for Traffic Monitoring and Analysis For Cyber Threats
-date: 2021-09-17T15:38:53.558Z
+date: 2021-09-17T15:45:06.471Z
 summary: >-
   <!--StartFragment-->
 
@@ -21,8 +21,11 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+links:
+  - url: https://docs.google.com/presentation/d/1n8OcMsegMK0wrCqM6DqOOri1Ud5AHyEp/edit?usp=sharing&ouid=106882386787539954143&rtpof=true&sd=true
+    name: ppt
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
