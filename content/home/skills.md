@@ -96,6 +96,14 @@ feature:
   icon: mongo 
   icon_pack: custom
   name: MongoDB
+- description: 
+  icon: numpy 
+  icon_pack: custom
+  name: Numpy
+- description: 
+  icon: pandas 
+  icon_pack: custom
+  name: pandas
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
