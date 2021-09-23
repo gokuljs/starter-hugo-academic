@@ -21,6 +21,8 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+  - Security
 links:
   - url: https://drive.google.com/file/d/1jeGZSMuez4pP42L9dwrmhgWTVM_53e6_/view?resourcekey
     name: Video link
